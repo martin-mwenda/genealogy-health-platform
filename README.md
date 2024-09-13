@@ -9,15 +9,15 @@ Welcome to our platform where you can visualize your family’s legacy and under
 ## Features
 
 ### Family Tree Visualization
-![Family Tree Visualization](/genealogy-health-platform/tree.jpg)
+![Family Tree Visualization](/genealogy-health-platform/images/family tree.jpg)
 Create and visualize detailed family trees with an intuitive interface.
 
 ### Health Record Integration
-![Health Record Integration](/genealogy-health-platform/records-integration-OG.webp)
+![Health Record Integration](/genealogy-health-platform/images/records-integration-OG.webp)
 Input and manage health records securely and integrate them with family history.
 
 ### Genetic Risk Analysis
-![Genetic Risk Analysis](/genealogy-health-platform/generic-risk-model.jpg)
+![Genetic Risk Analysis](/genealogy-health-platform/images/generic-risk-model.jpg)
 Analyze potential genetic risks based on your family history.
 
 ## About
