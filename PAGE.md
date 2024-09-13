@@ -7,12 +7,21 @@ layout: home
 Welcome to our platform where you can visualize your family’s legacy and understand genetic risks.
 
 ## Features
-- Family Tree Visualization
-- Health Record Integration
-- Genetic Risk Analysis
+
+### Family Tree Visualization
+![Family Tree Visualization](/genealogy-health-platform/tree.jpg)
+Create and visualize detailed family trees with an intuitive interface.
+
+### Health Record Integration
+![Health Record Integration](/genealogy-health-platform/records-integration-OG.webp)
+Input and manage health records securely and integrate them with family history.
+
+### Genetic Risk Analysis
+![Genetic Risk Analysis](/genealogy-health-platform/generic-risk-model.jpg)
+Analyze potential genetic risks based on your family history.
 
 ## About
-Inspired by a personal journey to understand family health and genetic risks. This project is part of my portfolio for [ALX](https://your-portfolio-link.com).
+Inspired by a personal journey to understand family health and genetic risks. This project is part of my portfolio for ALX
 
 ## Project Repository
 Explore the code and contribute to the development on [GitHub](https://github.com/martin-mwenda/genealogy-health-platform).
