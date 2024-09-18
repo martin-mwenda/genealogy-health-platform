@@ -5,7 +5,9 @@ PROJECT NAME: Genealogy and Health Platform MVP Specification
 This project Focus on helping people keep track of their family
 lineage and health history and understand genetic risks.
 
-tasks will involve creating the following files:
+tasks will involve creating the directories and  files:
+
+DIRECTORY STRUCTURE.
 
 genealogy-health-platform/
 │
